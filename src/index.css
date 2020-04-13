@@ -1,0 +1,7 @@
+body{
+  margin: 0 auto;
+  background-color: #010006;
+  background-image: url(./images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
